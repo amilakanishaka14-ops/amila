@@ -1,0 +1,2 @@
+Pen Tube starter source is provided for the project owner to use, modify, and deploy.
+Third-party provider SDKs, services, trademarks, and API terms remain the property and responsibility of their respective owners.

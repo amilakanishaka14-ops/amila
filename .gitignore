@@ -1,0 +1,22 @@
+# Firebase / Node
+node_modules/
+.firebase/
+firestore-debug.log*
+firebase-debug.log*
+ui-debug.log*
+
+# Local secrets
+.env
+.env.*
+!.env.example
+service-account*.json
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build artifacts
+coverage/
+dist/
